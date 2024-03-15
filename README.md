@@ -1,6 +1,6 @@
 # math-for-machine-learning
-## Mathematics for MAchine Learning and Data Science Specialization
-This is my Coursera course work labs for the math for machine learning specialization by DeepLearning.AI.
+## Mathematics for Machine Learning and Data Science Specialization
+This is my Coursera course work labs for math for machine learning specialization by DeepLearning.AI.
 ### Fundamental math toolkit for machine learning is in 3 parts:
 * linear algebra
 * calculus
